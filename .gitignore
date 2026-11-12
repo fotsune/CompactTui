@@ -1,0 +1,16 @@
+.editorconfig
+.venv
+.git
+*.spec
+build
+dist
+*.log.txt
+python/
+_tmp_script.py
+__pycache__/
+*.pyc
+_*.txt
+_*.bat
+_*.png
+_*.ps1
+*.zip

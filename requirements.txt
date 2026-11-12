@@ -1,0 +1,5 @@
+# Ставится на пользовательской машине: main.py использует только curses.
+windows-curses==2.4.0
+
+# Нужно только для сборки main.exe (build.bat).
+pyinstaller==6.11.0
